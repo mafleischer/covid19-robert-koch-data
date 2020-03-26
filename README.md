@@ -1,4 +1,4 @@
-# Working with covid19 data of Robert Koch Institute
+# Working with covid19 data for Germany (Robert Koch Institute)
 Some evaluation on the official covid19 data for Germany of the Robert Koch institute
 
 Just getting into Data Science with Python I thought might get some useful insight
