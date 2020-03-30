@@ -1,0 +1,2 @@
+covid19_events_measures.csv:
+https://www.deutschland.de/de/news/coronavirus-in-deutschland-informationen#
