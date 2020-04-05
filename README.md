@@ -15,6 +15,8 @@ https://npgeo-corona-npgeo-de.hub.arcgis.com/datasets/dd4580c810204019a7b8eb3e0b
 
 https://npgeo-corona-npgeo-de.hub.arcgis.com/datasets/ef4b445a53c1406892257fe63129a8ea_0?geometry=-19.734%2C46.270%2C35.989%2C55.886
 
+https://npgeo-corona-npgeo-de.hub.arcgis.com/datasets/917fc37a709542548cc3be077a786c17_0?selectedAttribute=GEN
+
 
 Based on that data there is a Corona Dashboard for Germany:
 https://npgeo-corona-npgeo-de.hub.arcgis.com/
