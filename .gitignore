@@ -1,2 +1,3 @@
-*.csv*
+*.csv
+!additional_data/*.csv
 .ipynb_checkpoints
